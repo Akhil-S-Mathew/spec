@@ -1,0 +1,83 @@
+#logo{
+    height: 72px;
+    width: 248px;
+}
+#r1{
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.fa {
+    padding: 20px;
+    font-size: 20px;
+    height:30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin:5px 2px;
+  }   
+
+
+.m1{
+    margin-left: 30px;
+    
+}
+.a:hover{
+    background-color: skyblue;
+    border-radius: 10px;
+    
+}
+.home{
+    background-color: orange;
+    border-radius: 10px;
+}
+
+#marquee{
+    color: brown;
+}
+.u{
+    margin-top: 20px;
+}
+#img1{
+    width: 100%;
+    height: 470px;
+}
+#width{
+    
+    background-color: white;
+}
+.border{
+    border: solid gray .5px;
+}
+#b1{
+    background-color: white;
+}
+#moreinfo{
+    background-color:blue;
+}
+
+
+.height{
+    height: 10px;
+}
+
+#footer{
+    background-color:rgb(18,18,20);
+    color:rgb(255,255,255);
+}
+.li{
+    color: orange;
+    list-style: none;
+}
+
+     
+     
+  
+ 
+ 
+          /*
+             
+             about html css strating  
+
+                                       */
+                                       

@@ -1,0 +1,30 @@
+#profile{
+    background-color: rgb(39,96,159);
+    color: white;
+    height: 50px;
+
+}
+.profile{
+    padding-top: 10px;
+}
+#p{
+    padding: 20px;
+}
+.image{
+    padding-top: 65px;
+}
+#arrow{
+    
+    width: 10px;
+    font-size: 25px;
+
+}
+#p1{
+    padding: 15px;
+}
+
+
+#p3{
+    color: rgb(0,153,0);
+    font-style:oblique
+}
